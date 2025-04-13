@@ -33,5 +33,5 @@ jobs:
           context: .
           push: true
           tags: |
-            docker.io/YOUR_USERNAME/ad-api:latest
-            docker.io/YOUR_USERNAME/ad-api:${{ steps.get_version.outputs.VERSION }}
+            docker.io/aice0927/ad-api:latest
+            docker.io/aice0927/ad-api:${{ steps.get_version.outputs.VERSION }}
