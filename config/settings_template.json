@@ -1,0 +1,5 @@
+{
+  "domain_controller": "your-dc.domain.local",
+  "username": "your-user",
+  "password": "your-password"
+}
