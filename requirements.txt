@@ -1,3 +1,5 @@
 fastapi
 uvicorn
 ldap3
+jinja2
+pydantic
